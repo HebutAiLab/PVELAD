@@ -1,8 +1,8 @@
-# Solar cell EL image defect detection
+# Solar cell EL image defect detection.
 
 # News
 
-[2021-10-10]: PVEL-AD dataset is is coming soon! 
+[2021-10-10]: PVEL-AD dataset is is coming soon! please be patient.
 
 **2021 Dataset Access Instructions**
 
